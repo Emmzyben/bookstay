@@ -1,0 +1,15 @@
+body{
+  background-color:rgb(230, 113, 230);
+  text-align: center;
+}
+body h1 {
+  color: rgb(236, 230, 230);
+}
+form{
+  border: 1px solid rgb(14, 0, 0);
+  width: 500px;
+  position: fixed;
+  left: 30%;
+  top: 30%;
+  padding: 20px;
+}
